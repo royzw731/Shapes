@@ -8,5 +8,6 @@ namespace Shapes
 {
     internal class Shape
     {
+        public Shape() { }
     }
 }
